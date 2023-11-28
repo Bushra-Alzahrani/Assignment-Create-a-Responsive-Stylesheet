@@ -59,7 +59,7 @@ div{
  
   @media (min-width: 998px) {
     div {
-      width: 30%;
+      width: 30vw;
       display:inline-block;
    
     }
