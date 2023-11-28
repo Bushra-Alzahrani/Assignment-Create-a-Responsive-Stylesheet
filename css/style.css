@@ -43,7 +43,7 @@ div{
   padding: 2px;
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (min-width: 770px) {
     div{
         display:inline-block;
         width: 45%; 
